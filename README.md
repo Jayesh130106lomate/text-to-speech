@@ -1,5 +1,5 @@
 # Text-To-Speech
-This model is used to convert Text to System Voice.
+<b>This model is used to convert Text to System Voice.</b>
 <br><br>
 <b>Auther -</b><i> Jayesh Lomate</i>
 <br><br>
